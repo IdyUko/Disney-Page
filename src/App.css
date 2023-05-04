@@ -1,0 +1,113 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: transparent;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(/public/incredible2.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.logoimg{
+  width: 350px;
+  height: 150px;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  /* background-color: brown; */
+}
+.playbutton{
+  width: 130px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.playicon{
+  width: 30px;
+  height: 50px;
+  /* background-color: blue; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.playimg{
+  width: 15px;
+  height: 15px;
+  /* background-color: aqua; */
+}
+.play{
+  width: 100px;
+  height: 50px;
+  color: white;
+  /* background-color: yellow; */
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.trailerbutton{
+  width: 130px;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.trailer{
+  width: 70%;
+  height: 50px;
+  color: white;
+  /* background-color: yellow; */
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text1{
+  color: white;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.text2{
+  color: white;
+  margin-left: 50px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+.circle{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 2px solid white;
+  background-color: transparent;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.plus{
+  width: 20px;
+  height: 20px;
+  /* background-color: red; */
+}
+.people{
+  width: 25px;
+  height: 25px;
+  /* background-color: red; */
+} 
+.icons{
+  width: 30%;
+  height: 50px;
+  margin-left: 50px;
+  /* background-color: yellowgreen; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
